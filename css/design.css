@@ -1,0 +1,41 @@
+form {
+    
+    margin: 100px 10px 0px -200px;
+
+}
+
+section {
+
+    background-color: grey;
+    margin: 90px 0px 0px 350px;
+    height: 450px;
+    width: 900px;
+
+}
+
+h1 {
+
+    margin: 90px 0px 0px 350px;
+    color: black;
+    font-style: ;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+body{
+    background-image:url(DevOps.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+
+a {
+
+    margin: 150px 10px 0px -200px;
+
+}
+
